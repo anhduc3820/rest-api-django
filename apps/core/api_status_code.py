@@ -1,0 +1,9 @@
+"""
+meta.code definitions
+"""
+
+TOKEN_EXPIRE = 100
+EMAIL_EXIST = 101
+INCORRECT_PASSWORD = 102
+NOT_FOUND = 404
+
